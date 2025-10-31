@@ -4,6 +4,21 @@
 
 Esta prueba técnica evalúa tus habilidades como desarrollador fullstack. El objetivo es completar una aplicación de gestión de productos implementando tanto funcionalidades del backend como del frontend.
 
+## Tech Stack
+
+### Backend
+- **Node** - Runtime de JavaScript
+- **NestJs** - Framework web para Node.js
+- **TypeScript** - Superset tipado de JavaScript
+- **TypeOrm** - ORM para base de datos
+- **SQLite** - Base de datos
+
+### Frontend
+- **React** - Biblioteca de JavaScript para interfaces de usuario
+- **TypeScript** - Superset tipado de JavaScript
+- **NextJs** - Framework de React para producción con renderizado del lado del servidor
+- **Tailwind** - Para estilos y diseño responsivo
+
 ## Tareas a Realizar
 
 ### Backend
